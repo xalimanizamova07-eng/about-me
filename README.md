@@ -1,1 +1,2 @@
-# about-me
+# men haqqimda 
+*Qaraqolpoqiston*
