@@ -6,4 +6,5 @@ men yoqtirgan fanlar
 -fizika
 -ozbek tili
 men *mushuk*larga qiziqaman
-sahifam:[git hub] (https://github.com/xalimanizamova07-eng)
+sahifam:[githttps://github.com/xalimanizamova07-eng/)
+.https://github.com/xalimanizamova07-eng/about-me/blob/main/hori.png
